@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Client
+Bundle-SymbolicName: ru.agentlab.websocket.client
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.jetty.websocket.api;bundle-version="9.3.10",
+ org.eclipse.jetty.websocket.client;bundle-version="9.3.10",
+ org.eclipse.jetty.websocket.common;bundle-version="9.3.10",
+ org.eclipse.jetty.util;bundle-version="9.3.10",
+ org.eclipse.jetty.io;bundle-version="9.3.10"
