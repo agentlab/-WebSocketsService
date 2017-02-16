@@ -9,3 +9,4 @@ Require-Bundle: org.eclipse.jetty.websocket.api;bundle-version="9.3.10",
  org.eclipse.jetty.websocket.common;bundle-version="9.3.10",
  org.eclipse.jetty.util;bundle-version="9.3.10",
  org.eclipse.jetty.io;bundle-version="9.3.10"
+Export-Package: ru.agentlab.websocket.client
